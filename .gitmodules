@@ -1,0 +1,3 @@
+[submodule "lib/m.2"]
+	path = lib/m.2
+	url = https://github.com/timonsku/M.2-Card-Footprints.git
